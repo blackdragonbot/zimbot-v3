@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮ZERO TWO BOT 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING 𝚉𝙴𝚁𝙾 𝚃𝚆𝙾 𝙱𝙾𝚃
+//┃THANKS FOR CHOOSING ZERO TWO BOT
 //┃THANKS TO REAL NOTY
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -43,7 +43,7 @@ global.botname = '🌹ᏃᎬᎡϴ ͲᏔϴ❤️'
 global.ownername = 'ᎡᎬᎪᏞ ΝϴͲᎽ👻'
 global.group1 = 'https://chat.whatsapp.com/LHEraDdQfi42tIiJRxmIAl'
 global.group2 = 'https://chat.whatsapp.com/HE8Kqj3vQr20Uzz8qu42b4'
-global.packname = '❤️ ⱫɆⱤØ ͲᏔϴ 𝗕𝗢𝗧😋'
+global.packname = '😁ZERO TWO❤️'
 global.ytchannel = 'https://www.youtube.com/@alinesantamd12'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -65,7 +65,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = '😘ᏃᎬᎡϴ ͲᏔϴ❤️''
+global.author = 'ZERO TWO❤️''
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
